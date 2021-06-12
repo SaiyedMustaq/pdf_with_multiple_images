@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/pdf_with_multiple_images/BuildConfig.java
+ com.example.pdf_with_multiple_images.BuildConfig

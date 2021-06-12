@@ -1,0 +1,4 @@
+#Sat Jun 12 11:11:17 IST 2021
+base.0=E\:\\Flutter Projects\\Flitter UI\\pdf_with_multiple_images\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
